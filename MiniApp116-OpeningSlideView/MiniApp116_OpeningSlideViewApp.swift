@@ -11,7 +11,7 @@ import SwiftUI
 struct MiniApp116_OpeningSlideViewApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SwipeView()
         }
     }
 }
